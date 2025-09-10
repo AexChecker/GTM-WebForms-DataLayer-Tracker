@@ -14,7 +14,7 @@ A lightweight jQuery-based script that automatically tracks user interactions wi
 
 1. Include the script on your site:
    ```html
-   &lt;script src="path/to/gtm-form-tracker.js"&gt;&lt;/script&gt;
+   <script src="path/to/gtm-form-tracker.js"></script>
    ```
 
 2. Or paste the full script inside a **Custom HTML Tag** in GTM.
